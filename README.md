@@ -48,3 +48,5 @@ The governor elections were selected because they are statewide contests and inc
 ## Conclusion
 This analysis shows that congressional redistricting altered how some Tennessee counties were divided across districts and that counties affected by these changes often exhibited greater variability in election margins between 2018 and 2022. Changes in voter turnout were less consistently associated with redistricting exposure.
 
+## Presentation
+[View Presentation Slides](https://1drv.ms/p/c/4c46f7862bc1ce0b/IQD-uvYyHxtUQbqqioewauGoARuH2ahw2YV89dnEaCerT7A?e=HNtPKE)
